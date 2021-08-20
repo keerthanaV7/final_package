@@ -10,6 +10,7 @@ setuptools.setup(
 		"Programming Languages :: Python :: 3",
 		"Operating System :: OS Independent"],
 	python_requires ='>=3.6',
-	install_requires=['pandas==1.1.5']
+	install_requires=['pandas==1.1.5'],
+	dependency_links=['http://github.com/user/repo/tarball/master#egg=package-1.0']
 	
 )
