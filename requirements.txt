@@ -1,1 +1,2 @@
+pytest==6.2.4
 git+https://github.com/keerthanaV7/package2.git
